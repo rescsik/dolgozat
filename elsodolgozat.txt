@@ -1,0 +1,10 @@
+1. Microsoft Management Console
+2.  -nyelv kiválasztás
+    -rövid dátum beallítása
+    -Pénznem beállytása
+    -idő beállítása
+    -dátum beallítása
+    -eszközkezelő 
+3.CPU adatainak megnézése
+4.Ha elfogy a ram az OP rendszer ehhez nyúl
+
