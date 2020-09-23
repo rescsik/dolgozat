@@ -1,0 +1,15 @@
+1. Mi a különbség a teli és az üres elem között?
+
+1. Az, hogy van e zárótages párja.
+
+2. Sorolj fel három meta elemet!
+
+2.  <meta name="" content="">
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="html; charset=iso-8859-2">
+
+3. Emmet
+
+p>({példa: }+span{Ez itt egy példa}+{ az Emmet-ről.})   
+
+<p>Példa: <span Ez itt egy példa /span></p>
